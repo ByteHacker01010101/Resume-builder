@@ -95,7 +95,7 @@ Proud to share that KickResume is **optimized for speed, accessibility, and best
 
 I’m open to freelance projects, internships, and full-time opportunities. If you liked this project, feel free to connect or drop a message!
 
-📬 **LinkedIn**: [https://linkedin.com/in/sampritmandal](https://linkedin.com/in/sampritmandal)  
+📬 **LinkedIn**: [https://linkedin.com/in/sampritmandal]((https://www.linkedin.com/in/samprit-mandal-a339b9287/))  
 💼 **Portfolio**: [https://smpritportfolio.vercel.app](https://smpritportfolio.vercel.app)  
 📧 **Email**: sampritdeveloper@gmail.com
 
