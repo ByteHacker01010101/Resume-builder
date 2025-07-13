@@ -84,8 +84,8 @@ This project is a reflection of my personal growth and skillset as a front-end d
 
 Proud to share that KickResume is **optimized for speed, accessibility, and best practices**.
 
-- ✅ **Desktop Score: 90+**
-- ✅ **Mobile Score: 90+**
+- ✅ **Desktop Score: 99+**
+- ✅ **Mobile Score: 97+**
 
 *(See screenshots in the `/lighthouse-report` folder)*
 
