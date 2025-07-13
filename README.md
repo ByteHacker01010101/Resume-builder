@@ -97,7 +97,7 @@ I’m open to freelance projects, internships, and full-time opportunities. If y
 
 📬 **LinkedIn**: [[https://linkedin.com/in/sampritmandal](https://www.linkedin.com/in/samprit-mandal-a339b9287/)]  
 💼 **Portfolio**: [https://smpritportfolio.vercel.app](https://smpritportfolio.vercel.app)  
-📧 **Email**: sampritdeveloper@gmail.com
+📧 **Email**: samprit.code@gmail.com
 
 ---
 
